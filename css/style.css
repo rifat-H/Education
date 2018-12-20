@@ -1,8 +1,20 @@
 /* global */
+body {
+  font-family: "Dosis";
+  color: #333333;
+  background-image: url(../images/background.png);
+}
+
 /* fonts start */
-header li a {
+header li a,
+.banner_content h1 {
   font-family: "Dosis";
   font-weight: bold;
+}
+
+.scroll p {
+  font-family: "Lato";
+  font-weight: 300;
 }
 
 /* fonts end*/
@@ -64,4 +76,36 @@ header nav ul li a {
 }
 
 /* header start */
+.banner {
+  background-image: url(../images/cloud.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.banner_content {
+  margin-top: 290px;
+  margin-bottom: 300px;
+}
+
+.banner_content h1 {
+  font-size: 48px;
+  letter-spacing: 5px;
+  font-weight: bold;
+  letter-spacing: 5px;
+  color: #1ec0ff;
+}
+
+.scroll p {
+  text-transform: uppercase;
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 36px;
+  color: #bbbbbb;
+}
+
+.scroll i {
+  font-size: 60px;
+  color: #bbbbbb;
+}
 /*# sourceMappingURL=style.css.map */
