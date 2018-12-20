@@ -1,0 +1,44 @@
+/* global */
+
+/* fonts start */
+header li a {
+    font-family: "Dosis";
+    font-weight: bold;
+}
+
+/* fonts end*/
+
+/* global end */
+
+/* header start */
+header {
+    background-color: #ffd338;
+
+    nav {
+        li {
+            margin-top: 10px;
+            font-size: 18px;
+            letter-spacing: 2px;
+            margin: 0 10px;
+            padding: 0 0;
+
+            &:hover {
+                border-radius: 15px;
+                background-color: #f05c5c;
+            }
+            &:last-child{
+                margin: 0 0;
+            }
+
+            a {
+                color: #ffffff !important;
+            }
+        }
+    }
+}
+
+.cusmar {
+    margin-left: 60px;
+}
+
+/* header start */
