@@ -11,13 +11,16 @@ header li a,
 .edu_title_container h1,
 .rowcontainer h2,
 .education2_container1 h1,
-.container2 p {
-  font-family: "Dosis";
+.container2 p,
+.featured_container1 h1,
+.card-block h4 {
   font-weight: bold;
 }
 
 .scroll p,
-.rowcontainer p {
+.rowcontainer p,
+.cusheader,
+.custext {
   font-family: "Lato";
   font-weight: 300;
 }
@@ -191,5 +194,87 @@ header nav ul li a {
   letter-spacing: 2px;
   color: white;
   text-align: center;
+}
+
+.featured_container1 h1 {
+  font-size: 30px;
+  letter-spacing: 3px;
+}
+
+.card-block {
+  font-size: 1em;
+  position: relative;
+  margin: 0;
+  padding: 1em;
+  border: none;
+  border-top: 1px solid rgba(34, 36, 38, 0.1);
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.card-block h4 {
+  font-size: 24px;
+  letter-spacing: 2px;
+}
+
+.profile {
+  position: absolute;
+  top: -20px;
+  right: 9px;
+  display: inline-block;
+  overflow: hidden;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  width: 45px;
+  height: 45px;
+  margin: 0;
+  border: 1px solid #fff;
+  border-radius: 50%;
+}
+
+.profile-avatar {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.cusheader {
+  border-top-left-radius: 20px !important;
+  border-top-right-radius: 20px !important;
+}
+
+.cusheader2 {
+  background-color: #1ec0ff;
+}
+
+.cusheader3 {
+  background-color: #56d47e;
+}
+
+.cusheader4 {
+  background-color: #f05c5c;
+}
+
+.cusheader5 {
+  background-color: #ffd338;
+}
+
+.custext {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.cusfooter {
+  padding: 7px 10px 0px 10px;
+}
+
+.cusfooter p {
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.custitle {
+  color: #1ec0ff;
 }
 /*# sourceMappingURL=style.css.map */
