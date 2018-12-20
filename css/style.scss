@@ -7,12 +7,15 @@ body {
 
 /* fonts start */
 header li a,
-.banner_content h1 {
+.banner_content h1,
+.edu_title_container h1,
+.rowcontainer h2 {
     font-family: "Dosis";
     font-weight: bold;
 }
 
-.scroll p {
+.scroll p,
+.rowcontainer p {
     font-family: "Lato";
     font-weight: 300;
 }
@@ -125,3 +128,63 @@ header {
 }
 
 // banner end
+
+// education start
+
+.education{
+    padding: 50px 0;
+}
+
+.edu_title_container {
+    margin-top: 100px;
+
+    h1 {
+        font-size: 30px;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+        margin-bottom: 25px;
+    }
+
+    hr {
+        width: 250px;
+        border: none;
+        border-bottom: 4px dashed white;
+        margin-bottom: 25px;
+    }
+
+}
+
+.rowcontainer {
+    h2 {
+        font-size: 24px;
+        letter-spacing: 2px;
+        margin-bottom: 15px;
+    }
+
+    p {
+        margin-top: 15px;
+        font-size: 16px;
+        line-height: 25px;
+        font-weight: 300;
+    }
+
+    img{
+
+    }
+}
+
+.line {
+    width: 170px;
+    height: 3px;
+    border-radius: 2px;
+    background-color: #dddddd;
+}
+
+.rowcontainer2 {
+    img {
+        border-radius: 20px;
+        box-shadow: 0 3px 4px rgba(0, 0, 0, 0.2);
+    }
+}
+
+// education end

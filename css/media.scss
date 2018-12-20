@@ -45,6 +45,37 @@
     }
 
     // banner end
+    // education start
+    .edu_title_container {
+        margin-top: 240px;
+
+        h1 {
+            font-size: 20px;
+            margin-bottom: 25px;
+        }
+
+        hr {
+            width: 250px;
+            margin-bottom: 25px;
+        }
+
+    }
+
+    .rowcontainer {
+        h2 {
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        p {
+            margin-top: 15px;
+            font-size: 16px;
+        }
+
+        img {}
+    }
+
+    // education end
 }
 
 //  Small devices (landscape phones, 576px and up) 
@@ -94,6 +125,44 @@
     }
 
     // banner end
+
+    // education start
+
+    .edu_title_container {
+        margin-top: 200px;
+
+        h1 {
+            font-size: 28px;
+            margin-bottom: 25px;
+        }
+
+        hr {
+            width: 250px;
+            margin-bottom: 25px;
+        }
+
+    }
+
+    .rowcontainer {
+        h2 {
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        p {
+            margin-top: 15px;
+            font-size: 16px;
+        }
+
+        img {}
+    }
+
+
+    .rowcontainer2{
+        margin-top: 50px;
+    }
+
+    // education end
 
 }
 
@@ -145,6 +214,45 @@
     }
 
     // banner end
+
+    // education start
+
+    .edu_title_container {
+        margin-top: 180px;
+
+        h1 {
+
+            margin-bottom: 25px;
+        }
+
+        hr {
+            width: 250px;
+            margin-bottom: 25px;
+        }
+
+    }
+
+    .rowcontainer {
+        h2 {
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        p {
+            margin-top: 15px;
+            font-size: 16px;
+        }
+        img{
+            width: 210px;
+        }
+
+    }
+
+    .rowcontainer2{
+        margin-top: 70px;
+    }
+
+    // education end
 }
 
 //  Large devices (desktops, 992px and up) 
@@ -200,6 +308,43 @@
 
     // banner end
 
+
+    // education start
+
+    .edu_title_container {
+        margin-top: 150px;
+
+        h1 {
+
+            margin-bottom: 25px;
+        }
+
+        hr {
+            width: 250px;
+            margin-bottom: 25px;
+        }
+
+    }
+
+    .rowcontainer {
+        h2 {
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        p {
+            margin-top: 15px;
+            font-size: 16px;
+        }
+
+        img {}
+    }
+
+    .rowcontainer2{
+        margin-top: 40px;
+    }
+
+    // education end
 }
 
 //  Extra large devices (large desktops, 1200px and up) 
