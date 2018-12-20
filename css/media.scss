@@ -76,6 +76,20 @@
     }
 
     // education end
+
+    // education2
+
+    .container2 {
+        img {
+            margin-left: 25px;
+        }
+
+        p {
+            font-size: 20px;
+        }
+    }
+
+    // education2 end 
 }
 
 //  Small devices (landscape phones, 576px and up) 
@@ -158,11 +172,26 @@
     }
 
 
-    .rowcontainer2{
+    .rowcontainer2 {
         margin-top: 50px;
     }
 
     // education end
+
+    // education2
+
+    .container2 {
+        img {
+            margin-left: 0;
+        }
+
+        p {
+            font-size: 20px;
+            display: inline-block;
+        }
+    }
+
+    // education2 end 
 
 }
 
@@ -242,17 +271,32 @@
             margin-top: 15px;
             font-size: 16px;
         }
-        img{
+
+        img {
             width: 210px;
         }
 
     }
 
-    .rowcontainer2{
+    .rowcontainer2 {
         margin-top: 70px;
     }
 
     // education end
+
+    // education2
+
+    .container2 {
+        img {
+            margin-left: 0;
+        }
+
+        p {
+            font-size: 20px;
+        }
+    }
+
+    // education2 end 
 }
 
 //  Large devices (desktops, 992px and up) 
@@ -340,11 +384,25 @@
         img {}
     }
 
-    .rowcontainer2{
+    .rowcontainer2 {
         margin-top: 40px;
     }
 
     // education end
+
+    // education2
+
+    .container2 {
+        img {
+            margin-left: 5px;
+        }
+
+        p {
+            font-size: 20px;
+        }
+    }
+
+    // education2 end 
 }
 
 //  Extra large devices (large desktops, 1200px and up) 
