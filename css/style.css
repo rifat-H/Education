@@ -12,29 +12,28 @@ header {
   background-color: #ffd338;
 }
 
-header nav li {
+header nav ul {
   margin-top: 10px;
-  font-size: 18px;
-  letter-spacing: 2px;
-  margin: 0 10px;
-  padding: 0 0;
 }
 
-header nav li:hover {
+header nav ul li {
+  font-size: 18px;
+  letter-spacing: 2px;
+  margin: 0 9px;
+}
+
+header nav ul li:hover {
   border-radius: 15px;
   background-color: #f05c5c;
 }
 
-header nav li:last-child {
-  margin: 0 0;
-}
-
-header nav li a {
+header nav ul li a {
   color: #ffffff !important;
+  display: inline;
 }
 
 .cusmar {
-  margin-left: 60px;
+  margin-left: 55px;
 }
 
 /* header start */

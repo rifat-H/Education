@@ -4,15 +4,22 @@
     /* header start */
     header {
         nav {
-            li {
-                margin-top: 0;
-                margin-left: auto;
+            ul {
+                margin-top: 30px !important;
+
+                li {
+                    margin: 0 0;
+                    text-align: right;
+                    // &:last-child {
+                    //     margin: 0 10px;
+                    // }
+                }
             }
         }
     }
 
     .cusmar {
-        margin-left: 10px;
+        margin-left: auto;
     }
 
     /* header start */
@@ -24,15 +31,22 @@
     /* header start */
     header {
         nav {
-            li {
-                margin-top: 0;
-                margin-left: auto;
+            ul {
+                margin-top: 30px !important;
+
+                li {
+                    margin: 0 0;
+                    text-align: right;
+                    // &:last-child {
+                    //     margin: 0 10px;
+                    // }
+                }
             }
         }
     }
 
     .cusmar {
-        margin-left: 10px;
+        margin-left: auto;
     }
 
     /* header start */
@@ -41,33 +55,57 @@
 //  Medium devices (tablets, 768px and up) 
 @media (min-width: 768px) and (max-width: 991.98px) {
 
-    // global start
-    body {
-        padding: 0;
-        margin: 0;
-    }
-
-    // global end
-
     /* header start */
     header {
         nav {
-            li {
-                margin-top: 0;
-                margin-left: auto;
+            ul {
+                margin-top: 30px !important;
+
+                li {
+                    margin: 0 0;
+                    text-align: right;
+                    // &:last-child {
+                    //     margin: 0 10px;
+                    // }
+                }
             }
         }
     }
 
     .cusmar {
-        margin-left: 10px;
+        margin-left: auto;
     }
 
     /* header start */
 }
 
 //  Large devices (desktops, 992px and up) 
-@media (min-width: 992px) and (max-width: 1199.98px) {}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* header start */
+    header {
+        nav {
+            ul {
+                margin-top: 30px !important;
+
+                li {
+                    margin: 0 0;
+                    text-align: right;
+                    // &:last-child {
+                    //     margin: 0 10px;
+                    // }
+                }
+            }
+        }
+    }
+
+    .cusmar {
+        margin-left: auto;
+    }
+
+    /* header start */
+
+}
 
 //  Extra large devices (large desktops, 1200px and up) 
 @media (min-width: 1200px) {}

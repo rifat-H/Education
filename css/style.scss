@@ -15,30 +15,34 @@ header {
     background-color: #ffd338;
 
     nav {
-        li {
+        ul {
             margin-top: 10px;
-            font-size: 18px;
-            letter-spacing: 2px;
-            margin: 0 10px;
-            padding: 0 0;
+            li {
+                font-size: 18px;
+                letter-spacing: 2px;
+                margin: 0 9px;
 
-            &:hover {
-                border-radius: 15px;
-                background-color: #f05c5c;
-            }
-            &:last-child{
-                margin: 0 0;
-            }
+                // &:last-child {
+                //     margin: 0 10px;
+                // }
 
-            a {
-                color: #ffffff !important;
+                &:hover {
+                    border-radius: 15px;
+                    background-color: #f05c5c;
+                }
+
+                a {
+                    color: #ffffff !important;
+                    display: inline;
+                }
             }
         }
     }
 }
 
 .cusmar {
-    margin-left: 60px;
+    margin-left: 55px;
 }
+
 
 /* header start */
