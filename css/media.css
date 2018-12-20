@@ -55,6 +55,9 @@
   .cusmar {
     margin-left: auto;
   }
-  /* header start */
+  .searchbar:hover > .search_input {
+    width: 70px;
+  }
+  /* header end */
 }
 /*# sourceMappingURL=media.css.map */

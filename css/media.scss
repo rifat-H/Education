@@ -37,9 +37,7 @@
                 li {
                     margin: 0 0;
                     text-align: right;
-                    // &:last-child {
-                    //     margin: 0 10px;
-                    // }
+
                 }
             }
         }
@@ -64,9 +62,8 @@
                 li {
                     margin: 0 0;
                     text-align: right;
-                    // &:last-child {
-                    //     margin: 0 10px;
-                    // }
+
+
                 }
             }
         }
@@ -94,6 +91,7 @@
                     // &:last-child {
                     //     margin: 0 10px;
                     // }
+
                 }
             }
         }
@@ -103,7 +101,15 @@
         margin-left: auto;
     }
 
-    /* header start */
+    // search
+    .searchbar:hover>.search_input {
+        width: 70px;
+    }
+
+
+    // search
+
+    /* header end */
 
 }
 

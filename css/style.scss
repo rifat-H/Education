@@ -17,14 +17,16 @@ header {
     nav {
         ul {
             margin-top: 10px;
+
             li {
                 font-size: 18px;
                 letter-spacing: 2px;
                 margin: 0 9px;
 
-                // &:last-child {
-                //     margin: 0 10px;
-                // }
+                &:last-child {
+                    margin-top: 1px;
+                    margin-left: -8px;
+                }
 
                 &:hover {
                     border-radius: 15px;
@@ -41,8 +43,35 @@ header {
 }
 
 .cusmar {
-    margin-left: 55px;
+    margin-left: 15px;
+}
+
+// search
+
+
+.searchbar {
+    height: 40px;
+    // padding-left: 10px;
+}
+
+.search_input {
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    width: 0;
+    caret-color: transparent;
+    line-height: 40px;
+    transition: width 0.4s linear;
+}
+
+.searchbar:hover>.search_input {
+    // padding: 0 10px;
+    width: 90px;
+    // caret-color: red;
+    transition: width 0.4s linear;
 }
 
 
+// search
 /* header start */

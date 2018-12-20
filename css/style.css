@@ -22,6 +22,11 @@ header nav ul li {
   margin: 0 9px;
 }
 
+header nav ul li:last-child {
+  margin-top: 1px;
+  margin-left: -8px;
+}
+
 header nav ul li:hover {
   border-radius: 15px;
   background-color: #f05c5c;
@@ -33,7 +38,29 @@ header nav ul li a {
 }
 
 .cusmar {
-  margin-left: 55px;
+  margin-left: 15px;
+}
+
+.searchbar {
+  height: 40px;
+}
+
+.search_input {
+  color: white;
+  border: 0;
+  outline: 0;
+  background: none;
+  width: 0;
+  caret-color: transparent;
+  line-height: 40px;
+  -webkit-transition: width 0.4s linear;
+  transition: width 0.4s linear;
+}
+
+.searchbar:hover > .search_input {
+  width: 90px;
+  -webkit-transition: width 0.4s linear;
+  transition: width 0.4s linear;
 }
 
 /* header start */
