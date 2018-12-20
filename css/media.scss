@@ -22,7 +22,29 @@
         margin-left: auto;
     }
 
-    /* header start */
+    // banner start
+    .banner_content {
+        margin-top: 149px;
+        margin-bottom: 131px;
+    }
+
+    .banner_content h1 {
+        font-size: 25px;
+    }
+
+    .scroll {
+        margin-bottom: -100px;
+
+        p {
+            font-size: 17px;
+        }
+
+        i {
+            font-size: 50px;
+        }
+    }
+
+    // banner end
 }
 
 //  Small devices (landscape phones, 576px and up) 
@@ -48,6 +70,31 @@
     }
 
     /* header start */
+
+    // banner start
+    .banner_content {
+        margin-top: 229px;
+        margin-bottom: 131px;
+    }
+
+    .banner_content h1 {
+        font-size: 28px;
+    }
+
+    .scroll {
+        margin-bottom: -100px;
+
+        p {
+            font-size: 17px;
+        }
+
+        i {
+            font-size: 50px;
+        }
+    }
+
+    // banner end
+
 }
 
 //  Medium devices (tablets, 768px and up) 
@@ -74,6 +121,30 @@
     }
 
     /* header start */
+
+    // banner start
+    .banner_content {
+        margin-top: 206px;
+        margin-bottom: 145px;
+    }
+
+    .banner_content h1 {
+        font-size: 40px;
+    }
+
+    .scroll {
+        margin-bottom: -100px;
+
+        p {
+            font-size: 17px;
+        }
+
+        i {
+            font-size: 50px;
+        }
+    }
+
+    // banner end
 }
 
 //  Large devices (desktops, 992px and up) 
@@ -106,10 +177,28 @@
         width: 70px;
     }
 
-
     // search
-
     /* header end */
+
+    // banner start
+    .banner_content {
+        margin-top: 210px;
+        margin-bottom: 220px;
+    }
+
+    .scroll {
+        margin-bottom: -70px;
+
+        p {
+            font-size: 17px;
+        }
+
+        i {
+            font-size: 50px;
+        }
+    }
+
+    // banner end
 
 }
 

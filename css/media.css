@@ -10,7 +10,22 @@
   .cusmar {
     margin-left: auto;
   }
-  /* header start */
+  .banner_content {
+    margin-top: 149px;
+    margin-bottom: 131px;
+  }
+  .banner_content h1 {
+    font-size: 25px;
+  }
+  .scroll {
+    margin-bottom: -100px;
+  }
+  .scroll p {
+    font-size: 17px;
+  }
+  .scroll i {
+    font-size: 50px;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
@@ -26,6 +41,22 @@
     margin-left: auto;
   }
   /* header start */
+  .banner_content {
+    margin-top: 229px;
+    margin-bottom: 131px;
+  }
+  .banner_content h1 {
+    font-size: 28px;
+  }
+  .scroll {
+    margin-bottom: -100px;
+  }
+  .scroll p {
+    font-size: 17px;
+  }
+  .scroll i {
+    font-size: 50px;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
@@ -41,6 +72,22 @@
     margin-left: auto;
   }
   /* header start */
+  .banner_content {
+    margin-top: 206px;
+    margin-bottom: 145px;
+  }
+  .banner_content h1 {
+    font-size: 40px;
+  }
+  .scroll {
+    margin-bottom: -100px;
+  }
+  .scroll p {
+    font-size: 17px;
+  }
+  .scroll i {
+    font-size: 50px;
+  }
 }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
@@ -59,5 +106,18 @@
     width: 70px;
   }
   /* header end */
+  .banner_content {
+    margin-top: 210px;
+    margin-bottom: 220px;
+  }
+  .scroll {
+    margin-bottom: -70px;
+  }
+  .scroll p {
+    font-size: 17px;
+  }
+  .scroll i {
+    font-size: 50px;
+  }
 }
 /*# sourceMappingURL=media.css.map */

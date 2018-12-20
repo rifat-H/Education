@@ -89,7 +89,6 @@ header {
 
 
 // banner start
-
 .banner {
     background-image: url(../images/cloud.png);
     background-size: cover;
@@ -100,27 +99,29 @@ header {
 .banner_content {
     margin-top: 290px;
     margin-bottom: 300px;
+
+    h1 {
+        font-size: 48px;
+        letter-spacing: 5px;
+        font-weight: bold;
+        letter-spacing: 5px;
+        color: #1ec0ff;
+    }
 }
 
-.banner_content h1 {
-    font-size: 48px;
-    letter-spacing: 5px;
-    font-weight: bold;
-    letter-spacing: 5px;
-    color: #1ec0ff;
-}
+.scroll {
+    p {
+        text-transform: uppercase;
+        font-size: 18px;
+        letter-spacing: 1px;
+        line-height: 36px;
+        color: #bbbbbb;
+    }
 
-.scroll p {
-    text-transform: uppercase;
-    font-size: 18px;
-    letter-spacing: 1px;
-    line-height: 36px;
-    color: #bbbbbb;
-}
-
-.scroll i {
-    font-size: 60px;
-    color: #bbbbbb;
+    i {
+        font-size: 60px;
+        color: #bbbbbb;
+    }
 }
 
 // banner end
