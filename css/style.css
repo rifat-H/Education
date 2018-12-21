@@ -88,8 +88,12 @@ header nav ul li a { color: #ffffff !important; display: inline; }
 
 .custext { font-size: 14px; line-height: 24px; }
 
-.cusfooter { padding: 7px 10px 0 10px; }
+.cusfooter { padding: 7px 3px 0 3px; }
 
 .cusfooter p { font-size: 16px; line-height: 30px; }
 
+.cusfooter2 { border-bottom-left-radius: 20px !important; border-bottom-right-radius: 20px !important; }
+
 .custitle { color: #1ec0ff; }
+
+.mot { margin-bottom: 16px; }

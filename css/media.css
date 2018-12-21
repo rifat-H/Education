@@ -121,7 +121,12 @@
   .container2 img {
     margin-left: 0; }
   .container2 p {
-    font-size: 20px; } }
+    font-size: 20px; }
+  .cusfooter p {
+    font-size: 15px;
+    line-height: 30px; }
+  .mot {
+    margin-bottom: 40px; } }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
   /* header start */
@@ -162,4 +167,9 @@
   .container2 img {
     margin-left: 5px; }
   .container2 p {
-    font-size: 20px; } }
+    font-size: 20px; }
+  .cusfooter p {
+    font-size: 15px;
+    line-height: 30px; }
+  .mot {
+    margin-bottom: 40px; } }
