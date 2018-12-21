@@ -1,6 +1,6 @@
 /* global */
 body {
-  font-family: "Dosis";
+  font-family: 'Dosis', sans-serif;
   color: #333333;
   background-image: url(../images/background.png);
 }
@@ -21,7 +21,7 @@ header li a,
 .rowcontainer p,
 .cusheader,
 .custext {
-  font-family: "Lato";
+  font-family: 'Lato', sans-serif;
   font-weight: 300;
 }
 
@@ -266,7 +266,7 @@ header nav ul li a {
 }
 
 .cusfooter {
-  padding: 7px 10px 0px 10px;
+  padding: 7px 10px 0 10px;
 }
 
 .cusfooter p {
