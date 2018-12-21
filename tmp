@@ -3,11 +3,10 @@ Problems
 ->navbar menu hover
 ->Can't type in searchbar(change search in dropbox)
 
-
-
-
 todo
 =====================
+->set card size correct in every device
+->set padding pattern in every section correct
 ->comment everywhere
 ->try to put border radius in card footer
 -> fix card footer border over p tag
