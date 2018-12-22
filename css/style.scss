@@ -14,7 +14,8 @@ header li a,
 .container2 p,
 .featured_container1 h1,
 .card-block h4,
-.cusbtn {
+.cusbtn,
+.row1_container h1{
   font-weight: bold;
 }
 
@@ -196,8 +197,7 @@ header {
 .education2 {
   padding-top: 50px;
   padding-bottom: 50-16px;
-  background: url(../images/blue_background.png);
-  background-repeat: no-repeat;
+  background: url(../images/blue_background.png) no-repeat;
   background-size: cover;
 }
 
@@ -353,3 +353,32 @@ header {
 // card end
 
 // featured end
+
+//moments start
+
+.moments{
+  padding-top: 50px;
+  padding-bottom: 50-30px;
+  background: url(../images/green_background.png) no-repeat;
+  background-size: cover;
+}
+.row1_container{
+  h1{
+    font-size: 30px;
+    letter-spacing: 3px;
+  }
+  hr{
+    width: 250px;
+    border: none;
+    border-bottom: 4px dashed white;
+    margin-bottom: 100px;
+  }
+}
+.row2_container{
+  margin-bottom: 30px;
+  img{
+    border-radius: 20px;
+  }
+}
+
+//moments end
