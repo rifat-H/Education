@@ -13,7 +13,8 @@ header li a,
 .education2_container1 h1,
 .container2 p,
 .featured_container1 h1,
-.card-block h4 {
+.card-block h4,
+.cusbtn {
   font-weight: bold;
 }
 
@@ -233,6 +234,19 @@ header {
 
 .featured {
   padding: 50px 0;
+
+  button {
+    width: 100%;
+    background-color: #56d47e;
+    font-weight: bold;
+    border-radius: 20px;
+    span{
+      font-size: 48px;
+      letter-spacing: 5px;
+      line-height: 20px;
+      color: #ffffff;
+    }
+  }
 }
 
 .featured_container1 {
@@ -334,6 +348,7 @@ header {
 .mbot {
   margin-bottom: 15px;
 }
+
 
 // card end
 

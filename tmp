@@ -5,8 +5,7 @@ Problems
 
 todo
 =====================
-->set card size correct in every device
-->set padding pattern in every section correct
+->set padding pattern in every section correct and responsive
 ->comment everywhere
 ->try to put border radius in card footer
 -> fix card footer border over p tag
