@@ -130,7 +130,7 @@ header nav ul li a { color: #ffffff !important; display: inline; }
 
 .teacher_wrapper2 img { border-radius: 20px; }
 
-.teacher_wrapper3 h4 { font-size: 24px; letter-spacing: 2px; line-height: 36px; color: #1ec0ff; font-weight: bold; margin-bottom: 0; }
+.teacher_wrapper3 h4 { font-size: 24px; letter-spacing: 2px; line-height: 36px; font-weight: bold; margin-bottom: 0; }
 
 .teacher_wrapper3 h5 { font-size: 16px; line-height: 36px; color: #333333; font-family: "Lato", sans-serif; margin-bottom: 0; }
 
@@ -151,3 +151,11 @@ header nav ul li a { color: #ffffff !important; display: inline; }
 .teacher_wrapper3 ul li:nth-child(2) { color: #57B9FE; }
 
 .teacher_wrapper3 ul li:nth-child(3) { color: #E35C5F; }
+
+.w1c { color: #1ec0ff; }
+
+.w2c { color: #56d47e; }
+
+.w3c { color: #f05c5c; }
+
+.w4c { color: #ffd338; }
