@@ -521,3 +521,27 @@ header {
 }
 
 //teachers end
+
+//grey start
+
+.grey{
+  background-color: #6E6E6E;
+}
+.grey_wrapper1{
+  padding: 50px 0;
+
+  h1{
+    font-size: 30px;
+    letter-spacing: 3px;
+    line-height: 36px;
+    color: #56d47e;
+    font-weight: bold;
+  }
+  hr{
+    width: 250px;
+    border: none;
+    border-bottom: 4px dashed white;
+  }
+}
+
+//grey end
