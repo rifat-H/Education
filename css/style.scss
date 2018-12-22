@@ -7,10 +7,11 @@ body {
 
 .edu_title_container hr,
 .education2_container1 hr,
-.row1_container  hr,
+.row1_container hr,
 .teacher_wrapper1 hr,
 .grey_wrapper1 hr,
-.teacher_wrapper3 hr{
+.teacher_wrapper3 hr,
+.newswrapper1 hr {
   width: 250px;
   border: none;
   border-bottom: 4px dashed white;
@@ -574,7 +575,8 @@ header {
     font-weight: bold;
     text-align: center;
   }
-  img{
+
+  img {
     position: absolute;
     bottom: 33px;
     left: 41px;
@@ -582,3 +584,25 @@ header {
 }
 
 //grey end
+
+//news start
+
+.news {
+  padding: 50px 0;
+}
+
+.newswrapper1 {
+  h1 {
+    font-size: 30px;
+    letter-spacing: 3px;
+    line-height: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  hr {
+    margin-left: 0;
+  }
+}
+
+//news end
