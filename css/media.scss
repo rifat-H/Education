@@ -1,453 +1,485 @@
 //  Extra small devices (portrait phones, less than 576px) 
 @media (max-width: 575.98px) {
 
-    /* header start */
-    header {
-        nav {
-            ul {
-                margin-top: 30px !important;
+  /* header start */
+  header {
+    nav {
+      ul {
+        margin-top: 30px !important;
 
-                li {
-                    margin: 0 0;
-                    text-align: right;
-                    // &:last-child {
-                    //     margin: 0 10px;
-                    // }
-                }
-            }
+        li {
+          margin: 0 0;
+          text-align: right;
+          // &:last-child {
+          //     margin: 0 10px;
+          // }
         }
+      }
+    }
+  }
+
+  .cusmar {
+    margin-left: auto;
+  }
+
+  // banner start
+  .banner_content {
+    margin-top: 149px;
+    margin-bottom: 131px;
+  }
+
+  .banner_content h1 {
+    font-size: 25px;
+  }
+
+  .scroll {
+    margin-bottom: -100px;
+
+    p {
+      font-size: 17px;
     }
 
-    .cusmar {
-        margin-left: auto;
+    i {
+      font-size: 50px;
+    }
+  }
+
+  // banner end
+  // education start
+
+  .education {
+    padding: 0 0;
+  }
+
+  .edu_title_container {
+    margin-top: 240px;
+
+    h1 {
+      font-size: 20px;
+      margin-bottom: 25px;
     }
 
-    // banner start
-    .banner_content {
-        margin-top: 149px;
-        margin-bottom: 131px;
+    hr {
+      width: 250px;
+      margin-bottom: 25px;
     }
 
-    .banner_content h1 {
-        font-size: 25px;
+  }
+
+  .rowcontainer {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
     }
 
-    .scroll {
-        margin-bottom: -100px;
-
-        p {
-            font-size: 17px;
-        }
-
-        i {
-            font-size: 50px;
-        }
+    p {
+      margin-top: 15px;
+      font-size: 16px;
     }
 
-    // banner end
-    // education start
-    .edu_title_container {
-        margin-top: 240px;
+    // img {}
+  }
 
-        h1 {
-            font-size: 20px;
-            margin-bottom: 25px;
-        }
+  // education end
 
-        hr {
-            width: 250px;
-            margin-bottom: 25px;
-        }
+  // education2
 
+  .container2 {
+    img {
+      margin-left: 25px;
     }
 
-    .rowcontainer {
-        h2 {
-            font-size: 24px;
-            margin-bottom: 15px;
-        }
-
-        p {
-            margin-top: 15px;
-            font-size: 16px;
-        }
-
-        // img {}
+    p {
+      font-size: 20px;
     }
+  }
 
-    // education end
-
-    // education2
-
-    .container2 {
-        img {
-            margin-left: 25px;
-        }
-
-        p {
-            font-size: 20px;
-        }
-    }
-
-    // education2 end 
+  // education2 end
 }
 
 //  Small devices (landscape phones, 576px and up) 
 @media (min-width: 576px) and (max-width: 767.98px) {
 
-    /* header start */
-    header {
-        nav {
-            ul {
-                margin-top: 30px !important;
+  /* header start */
+  header {
+    nav {
+      ul {
+        margin-top: 30px !important;
 
-                li {
-                    margin: 0 0;
-                    text-align: right;
+        li {
+          margin: 0 0;
+          text-align: right;
 
-                }
-            }
         }
+      }
+    }
+  }
+
+  .cusmar {
+    margin-left: auto;
+  }
+
+  /* header start */
+
+  // banner start
+  .banner_content {
+    margin-top: 229px;
+    margin-bottom: 131px;
+  }
+
+  .banner_content h1 {
+    font-size: 28px;
+  }
+
+  .scroll {
+    margin-bottom: -100px;
+
+    p {
+      font-size: 17px;
     }
 
-    .cusmar {
-        margin-left: auto;
+    i {
+      font-size: 50px;
+    }
+  }
+
+  // banner end
+
+  // education start
+
+  .education {
+    padding: 0 0;
+  }
+
+  .edu_title_container {
+      margin-top: 160px;
+
+    h1 {
+      font-size: 28px;
+      margin-bottom: 25px;
     }
 
-    /* header start */
-
-    // banner start
-    .banner_content {
-        margin-top: 229px;
-        margin-bottom: 131px;
+    hr {
+      width: 250px;
+      margin-bottom: 25px;
     }
 
-    .banner_content h1 {
-        font-size: 28px;
+  }
+
+  .rowcontainer {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
     }
 
-    .scroll {
-        margin-bottom: -100px;
-
-        p {
-            font-size: 17px;
-        }
-
-        i {
-            font-size: 50px;
-        }
+    p {
+      margin-top: 15px;
+      font-size: 16px;
     }
 
-    // banner end
+    // img {}
+  }
 
-    // education start
 
-    .edu_title_container {
-        margin-top: 200px;
+  .rowcontainer2 {
+    margin-top: 50px;
+  }
 
-        h1 {
-            font-size: 28px;
-            margin-bottom: 25px;
-        }
+  // education end
 
-        hr {
-            width: 250px;
-            margin-bottom: 25px;
-        }
+  // education2
 
+  .education2 {
+    padding: 10px 0;
+  }
+
+  .container2 {
+    img {
+      margin-left: 0;
     }
 
-    .rowcontainer {
-        h2 {
-            font-size: 24px;
-            margin-bottom: 15px;
-        }
-
-        p {
-            margin-top: 15px;
-            font-size: 16px;
-        }
-
-        // img {}
+    p {
+      font-size: 20px;
+      display: inline-block;
     }
+  }
 
+  // education2 end
 
-    .rowcontainer2 {
-        margin-top: 50px;
-    }
+  // featured start
 
-    // education end
+  // .cusheader {
+  //     margin-top: 10px;
+  // }
 
-    // education2
+  // .cusheader4 {
+  //     margin-top: 10px;
+  // }
 
-    .container2 {
-        img {
-            margin-left: 0;
-        }
+  // .cusheader5 {
+  //     margin-top: 10px;
+  // }
 
-        p {
-            font-size: 20px;
-            display: inline-block;
-        }
-    }
-
-    // education2 end 
-
-    // featured start
-
-    // .cusheader {
-    //     margin-top: 10px;
-    // }
-
-    // .cusheader4 {
-    //     margin-top: 10px;
-    // }
-    
-    // .cusheader5 {
-    //     margin-top: 10px;
-    // }
-
-    // featured end
+  .mbot {
+    margin-bottom: 45px;
+  }
+  // featured end
 
 }
 
 //  Medium devices (tablets, 768px and up) 
 @media (min-width: 768px) and (max-width: 991.98px) {
 
-    /* header start */
-    header {
-        nav {
-            ul {
-                margin-top: 30px !important;
+  /* header start */
+  header {
+    nav {
+      ul {
+        margin-top: 30px !important;
 
-                li {
-                    margin: 0 0;
-                    text-align: right;
+        li {
+          margin: 0 0;
+          text-align: right;
 
 
-                }
-            }
         }
+      }
+    }
+  }
+
+  .cusmar {
+    margin-left: auto;
+  }
+
+  /* header start */
+
+  // banner start
+  .banner_content {
+    margin-top: 206px;
+    margin-bottom: 145px;
+  }
+
+  .banner_content h1 {
+    font-size: 40px;
+  }
+
+  .scroll {
+    margin-bottom: -100px;
+
+    p {
+      font-size: 17px;
     }
 
-    .cusmar {
-        margin-left: auto;
+    i {
+      font-size: 50px;
+    }
+  }
+
+  // banner end
+
+  // education start
+  .education {
+    padding: 0 0;
+  }
+
+  .edu_title_container {
+    margin-top: 180px;
+
+    h1 {
+
+      margin-bottom: 25px;
     }
 
-    /* header start */
-
-    // banner start
-    .banner_content {
-        margin-top: 206px;
-        margin-bottom: 145px;
+    hr {
+      width: 250px;
+      margin-bottom: 25px;
     }
 
-    .banner_content h1 {
-        font-size: 40px;
+  }
+
+  .rowcontainer {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
     }
 
-    .scroll {
-        margin-bottom: -100px;
-
-        p {
-            font-size: 17px;
-        }
-
-        i {
-            font-size: 50px;
-        }
+    p {
+      margin-top: 15px;
+      font-size: 16px;
     }
 
-    // banner end
-
-    // education start
-
-    .edu_title_container {
-        margin-top: 180px;
-
-        h1 {
-
-            margin-bottom: 25px;
-        }
-
-        hr {
-            width: 250px;
-            margin-bottom: 25px;
-        }
-
+    img {
+      width: 210px;
     }
 
-    .rowcontainer {
-        h2 {
-            font-size: 24px;
-            margin-bottom: 15px;
-        }
+  }
 
-        p {
-            margin-top: 15px;
-            font-size: 16px;
-        }
+  .rowcontainer2 {
+    margin-top: 70px;
+  }
 
-        img {
-            width: 210px;
-        }
+  // education end
 
+  // education2
+
+  .education2 {
+    padding: 20px 0;
+  }
+
+  .container2 {
+    img {
+      margin-left: 0;
     }
 
-    .rowcontainer2 {
-        margin-top: 70px;
+    p {
+      font-size: 20px;
     }
+  }
+  // education2 end
 
-    // education end
+  //features start
 
-    // education2
-
-    .container2 {
-        img {
-            margin-left: 0;
-        }
-
-        p {
-            font-size: 20px;
-        }
+  .cusfooter {
+    p {
+      font-size: 15px;
+      line-height: 30px;
     }
-    // education2 end
+  }
 
-    //features start
-
-    .cusfooter {
-        p {
-            font-size: 15px;
-            line-height: 30px;
-        }
-    }
-
-    .mot{
-        margin-bottom: 40px;
-    }
-    //features end
+  .mot {
+    margin-bottom: 40px;
+  }
+  //features end
 
 }
 
 //  Large devices (desktops, 992px and up) 
 @media (min-width: 992px) and (max-width: 1199.98px) {
 
-    /* header start */
-    header {
-        nav {
-            ul {
-                margin-top: 30px !important;
+  /* header start */
+  header {
+    nav {
+      ul {
+        margin-top: 30px !important;
 
-                li {
-                    margin: 0 0;
-                    text-align: right;
-                    // &:last-child {
-                    //     margin: 0 10px;
-                    // }
+        li {
+          margin: 0 0;
+          text-align: right;
+          // &:last-child {
+          //     margin: 0 10px;
+          // }
 
-                }
-            }
         }
+      }
+    }
+  }
+
+  .cusmar {
+    margin-left: auto;
+  }
+
+  // search
+  .searchbar:hover > .search_input {
+    width: 70px;
+  }
+
+  // search
+  /* header end */
+
+  // banner start
+  .banner_content {
+    margin-top: 210px;
+    margin-bottom: 220px;
+  }
+
+  .scroll {
+    margin-bottom: -70px;
+
+    p {
+      font-size: 17px;
     }
 
-    .cusmar {
-        margin-left: auto;
+    i {
+      font-size: 50px;
+    }
+  }
+
+  // banner end
+
+
+  // education start
+  .education {
+    padding: 30px 0;
+  }
+
+  .edu_title_container {
+    margin-top: 150px;
+
+    h1 {
+
+      margin-bottom: 25px;
     }
 
-    // search
-    .searchbar:hover>.search_input {
-        width: 70px;
+    hr {
+      width: 250px;
+      margin-bottom: 25px;
     }
 
-    // search
-    /* header end */
+  }
 
-    // banner start
-    .banner_content {
-        margin-top: 210px;
-        margin-bottom: 220px;
+  .rowcontainer {
+    h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
     }
 
-    .scroll {
-        margin-bottom: -70px;
-
-        p {
-            font-size: 17px;
-        }
-
-        i {
-            font-size: 50px;
-        }
+    p {
+      margin-top: 15px;
+      font-size: 16px;
     }
 
-    // banner end
+    // img {}
+  }
 
+  .rowcontainer2 {
+    margin-top: 40px;
+  }
 
-    // education start
+  // education end
 
-    .edu_title_container {
-        margin-top: 150px;
+  // education2
 
-        h1 {
+  .education2 {
+    padding: 30px 0;
+  }
 
-            margin-bottom: 25px;
-        }
-
-        hr {
-            width: 250px;
-            margin-bottom: 25px;
-        }
-
+  .container2 {
+    img {
+      margin-left: 5px;
     }
 
-    .rowcontainer {
-        h2 {
-            font-size: 24px;
-            margin-bottom: 15px;
-        }
-
-        p {
-            margin-top: 15px;
-            font-size: 16px;
-        }
-
-        // img {}
+    p {
+      font-size: 20px;
     }
+  }
+  // education2 end
 
-    .rowcontainer2 {
-        margin-top: 40px;
+  //features start
+
+  .cusfooter {
+    p {
+      font-size: 15px;
+      line-height: 30px;
     }
+  }
 
-    // education end
-
-    // education2
-    .container2 {
-        img {
-            margin-left: 5px;
-        }
-
-        p {
-            font-size: 20px;
-        }
-    }
-    // education2 end
-
-    //features start
-
-    .cusfooter {
-        p {
-            font-size: 15px;
-            line-height: 30px;
-        }
-    }
-
-    .mot{
-        margin-bottom: 40px;
-    }
-    //features end
+  .mot {
+    margin-bottom: 40px;
+  }
+  //features end
 
 
 }
 
 //  Extra large devices (large desktops, 1200px and up) 
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+}

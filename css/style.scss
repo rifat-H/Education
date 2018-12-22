@@ -14,7 +14,6 @@ header li a,
 .container2 p,
 .featured_container1 h1,
 .card-block h4 {
-  // font-family: "Dosis";
   font-weight: bold;
 }
 
@@ -147,14 +146,13 @@ header {
     font-size: 30px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    margin-bottom: 25px;
+    //margin-bottom: 25px;
   }
 
   hr {
     width: 250px;
     border: none;
     border-bottom: 4px dashed white;
-    margin-bottom: 25px;
   }
 
 }
@@ -196,7 +194,7 @@ header {
 
 .education2 {
   padding-top: 50px;
-  padding-bottom: 40px;
+  padding-bottom: 50-16px;
   background: url(../images/blue_background.png);
   background-repeat: no-repeat;
   background-size: cover;
@@ -232,6 +230,10 @@ header {
 // education2 end
 
 // featured
+
+.featured {
+  padding: 50px 0;
+}
 
 .featured_container1 {
   h1 {
@@ -316,7 +318,7 @@ header {
   }
 }
 
-.cusfooter2{
+.cusfooter2 {
   border-bottom-left-radius: 20px !important;
   border-bottom-right-radius: 20px !important;
 }
@@ -325,8 +327,12 @@ header {
   color: #1ec0ff;
 }
 
-.mot{
+.mot {
   margin-bottom: 16px;
+}
+
+.mbot {
+  margin-bottom: 15px;
 }
 
 // card end
