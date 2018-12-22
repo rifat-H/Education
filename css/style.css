@@ -106,6 +106,8 @@ header nav ul li a { color: #ffffff !important; display: inline; }
 
 .mbot { margin-bottom: 15px; }
 
+.pbot { padding-bottom: 0; }
+
 .moments { padding-top: 50px; padding-bottom: 20px; background: url(../images/green_background.png) no-repeat; background-size: cover; }
 
 .row1_container h1 { font-size: 30px; letter-spacing: 3px; }

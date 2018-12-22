@@ -269,7 +269,6 @@ header {
   border: none;
   border-top: 1px solid rgba(34, 36, 38, .1);
   box-shadow: none;
-
   h4 {
     font-size: 24px;
     letter-spacing: 2px;
@@ -347,6 +346,10 @@ header {
 
 .mbot {
   margin-bottom: 15px;
+}
+
+.pbot{
+  padding-bottom: 0;
 }
 
 
