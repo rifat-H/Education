@@ -1,329 +1,207 @@
 @media (max-width: 575.98px) {
   /* header start */
   header nav ul {
-    margin-top: 30px !important;
-  }
-  header nav ul li {
-    margin: 0 0;
-    text-align: right;
-  }
-
+    margin-top: 30px !important; }
+    header nav ul li {
+      margin: 0 0;
+      text-align: right; }
   .cusmar {
-    margin-left: auto;
-  }
-
+    margin-left: auto; }
   .banner_content {
     margin-top: 149px;
-    margin-bottom: 131px;
-  }
-
+    margin-bottom: 131px; }
   .banner_content h1 {
-    font-size: 25px;
-  }
-
+    font-size: 25px; }
   .scroll {
-    margin-bottom: -100px;
-  }
-  .scroll p {
-    font-size: 17px;
-  }
-  .scroll i {
-    font-size: 50px;
-  }
-
+    margin-bottom: -100px; }
+    .scroll p {
+      font-size: 17px; }
+    .scroll i {
+      font-size: 50px; }
   .education {
-    padding: 0 0;
-  }
-
+    padding: 0 0; }
   .edu_title_container {
-    margin-top: 240px;
-  }
-  .edu_title_container h1 {
-    font-size: 20px;
-    margin-bottom: 25px;
-  }
-  .edu_title_container hr {
-    width: 250px;
-    margin-bottom: 25px;
-  }
-
+    margin-top: 240px; }
+    .edu_title_container h1 {
+      font-size: 20px;
+      margin-bottom: 25px; }
+    .edu_title_container hr {
+      width: 250px;
+      margin-bottom: 25px; }
   .rowcontainer h2 {
     font-size: 24px;
-    margin-bottom: 15px;
-  }
+    margin-bottom: 15px; }
   .rowcontainer p {
     margin-top: 15px;
-    font-size: 16px;
-  }
-
+    font-size: 16px; }
   .container2 img {
-    margin-left: 25px;
-  }
+    margin-left: 25px; }
   .container2 p {
-    font-size: 20px;
-  }
-
+    font-size: 20px; }
   .row1_container hr {
-    margin-bottom: 30px;
-  }
-}
+    margin-bottom: 30px; }
+  .row3_container {
+    margin-top: 10px; } }
+
 @media (min-width: 576px) and (max-width: 767.98px) {
   /* header start */
   header nav ul {
-    margin-top: 30px !important;
-  }
-  header nav ul li {
-    margin: 0 0;
-    text-align: right;
-  }
-
+    margin-top: 30px !important; }
+    header nav ul li {
+      margin: 0 0;
+      text-align: right; }
   .cusmar {
-    margin-left: auto;
-  }
-
+    margin-left: auto; }
   /* header start */
   .banner_content {
     margin-top: 229px;
-    margin-bottom: 131px;
-  }
-
+    margin-bottom: 131px; }
   .banner_content h1 {
-    font-size: 28px;
-  }
-
+    font-size: 28px; }
   .scroll {
-    margin-bottom: -100px;
-  }
-  .scroll p {
-    font-size: 17px;
-  }
-  .scroll i {
-    font-size: 50px;
-  }
-
+    margin-bottom: -100px; }
+    .scroll p {
+      font-size: 17px; }
+    .scroll i {
+      font-size: 50px; }
   .education {
-    padding: 0 0;
-  }
-
+    padding: 0 0; }
   .edu_title_container {
-    margin-top: 160px;
-  }
-  .edu_title_container h1 {
-    font-size: 28px;
-    margin-bottom: 25px;
-  }
-  .edu_title_container hr {
-    width: 250px;
-    margin-bottom: 25px;
-  }
-
+    margin-top: 160px; }
+    .edu_title_container h1 {
+      font-size: 28px;
+      margin-bottom: 25px; }
+    .edu_title_container hr {
+      width: 250px;
+      margin-bottom: 25px; }
   .rowcontainer h2 {
     font-size: 24px;
-    margin-bottom: 15px;
-  }
+    margin-bottom: 15px; }
   .rowcontainer p {
     margin-top: 15px;
-    font-size: 16px;
-  }
-
+    font-size: 16px; }
   .rowcontainer2 {
-    margin-top: 50px;
-  }
-
+    margin-top: 50px; }
   .education2 {
-    padding: 10px 0;
-  }
-
+    padding: 10px 0; }
   .container2 img {
-    margin-left: 0;
-  }
+    margin-left: 0; }
   .container2 p {
     font-size: 20px;
-    display: inline-block;
-  }
-
+    display: inline-block; }
   .mbot {
-    margin-bottom: 45px;
-  }
-
+    margin-bottom: 45px; }
   .row1_container hr {
-    margin-bottom: 40px;
-  }
-}
+    margin-bottom: 40px; }
+  .row3_container {
+    margin-top: 30px; } }
+
 @media (min-width: 768px) and (max-width: 991.98px) {
   /* header start */
   header nav ul {
-    margin-top: 30px !important;
-  }
-  header nav ul li {
-    margin: 0 0;
-    text-align: right;
-  }
-
+    margin-top: 30px !important; }
+    header nav ul li {
+      margin: 0 0;
+      text-align: right; }
   .cusmar {
-    margin-left: auto;
-  }
-
+    margin-left: auto; }
   /* header start */
   .banner_content {
     margin-top: 206px;
-    margin-bottom: 145px;
-  }
-
+    margin-bottom: 145px; }
   .banner_content h1 {
-    font-size: 40px;
-  }
-
+    font-size: 40px; }
   .scroll {
-    margin-bottom: -100px;
-  }
-  .scroll p {
-    font-size: 17px;
-  }
-  .scroll i {
-    font-size: 50px;
-  }
-
+    margin-bottom: -100px; }
+    .scroll p {
+      font-size: 17px; }
+    .scroll i {
+      font-size: 50px; }
   .education {
-    padding: 0 0;
-  }
-
+    padding: 0 0; }
   .edu_title_container {
-    margin-top: 180px;
-  }
-  .edu_title_container h1 {
-    margin-bottom: 25px;
-  }
-  .edu_title_container hr {
-    width: 250px;
-    margin-bottom: 25px;
-  }
-
+    margin-top: 180px; }
+    .edu_title_container h1 {
+      margin-bottom: 25px; }
+    .edu_title_container hr {
+      width: 250px;
+      margin-bottom: 25px; }
   .rowcontainer h2 {
     font-size: 24px;
-    margin-bottom: 15px;
-  }
+    margin-bottom: 15px; }
   .rowcontainer p {
     margin-top: 15px;
-    font-size: 16px;
-  }
+    font-size: 16px; }
   .rowcontainer img {
-    width: 210px;
-  }
-
+    width: 210px; }
   .rowcontainer2 {
-    margin-top: 70px;
-  }
-
+    margin-top: 70px; }
   .education2 {
-    padding: 20px 0;
-  }
-
+    padding: 20px 0; }
   .container2 img {
-    margin-left: 0;
-  }
+    margin-left: 0; }
   .container2 p {
-    font-size: 20px;
-  }
-
+    font-size: 20px; }
   .cusfooter p {
     font-size: 15px;
-    line-height: 30px;
-  }
-
+    line-height: 30px; }
   .mot {
-    margin-bottom: 40px;
-  }
-
+    margin-bottom: 40px; }
   .row1_container hr {
-    margin-bottom: 40px;
-  }
-}
+    margin-bottom: 40px; }
+  .row3_container {
+    margin-top: 50px; } }
+
 @media (min-width: 992px) and (max-width: 1199.98px) {
   /* header start */
   header nav ul {
-    margin-top: 30px !important;
-  }
-  header nav ul li {
-    margin: 0 0;
-    text-align: right;
-  }
-
+    margin-top: 30px !important; }
+    header nav ul li {
+      margin: 0 0;
+      text-align: right; }
   .cusmar {
-    margin-left: auto;
-  }
-
+    margin-left: auto; }
   .searchbar:hover > .search_input {
-    width: 70px;
-  }
-
+    width: 70px; }
   /* header end */
   .banner_content {
     margin-top: 210px;
-    margin-bottom: 220px;
-  }
-
+    margin-bottom: 220px; }
   .scroll {
-    margin-bottom: -70px;
-  }
-  .scroll p {
-    font-size: 17px;
-  }
-  .scroll i {
-    font-size: 50px;
-  }
-
+    margin-bottom: -70px; }
+    .scroll p {
+      font-size: 17px; }
+    .scroll i {
+      font-size: 50px; }
   .education {
-    padding: 30px 0;
-  }
-
+    padding: 30px 0; }
   .edu_title_container {
-    margin-top: 150px;
-  }
-  .edu_title_container h1 {
-    margin-bottom: 25px;
-  }
-  .edu_title_container hr {
-    width: 250px;
-    margin-bottom: 25px;
-  }
-
+    margin-top: 150px; }
+    .edu_title_container h1 {
+      margin-bottom: 25px; }
+    .edu_title_container hr {
+      width: 250px;
+      margin-bottom: 25px; }
   .rowcontainer h2 {
     font-size: 24px;
-    margin-bottom: 15px;
-  }
+    margin-bottom: 15px; }
   .rowcontainer p {
     margin-top: 15px;
-    font-size: 16px;
-  }
-
+    font-size: 16px; }
   .rowcontainer2 {
-    margin-top: 40px;
-  }
-
+    margin-top: 40px; }
   .education2 {
-    padding: 30px 0;
-  }
-
+    padding: 30px 0; }
   .container2 img {
-    margin-left: 5px;
-  }
+    margin-left: 5px; }
   .container2 p {
-    font-size: 20px;
-  }
-
+    font-size: 20px; }
   .cusfooter p {
     font-size: 15px;
-    line-height: 30px;
-  }
-
+    line-height: 30px; }
   .mot {
-    margin-bottom: 40px;
-  }
-
+    margin-bottom: 40px; }
   .row1_container hr {
-    margin-bottom: 50px;
-  }
-}
-
-/*# sourceMappingURL=media.css.map */
+    margin-bottom: 50px; }
+  .row3_container {
+    margin-top: 70px; } }
