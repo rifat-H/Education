@@ -41,7 +41,31 @@
   .row1_container hr {
     margin-bottom: 30px; }
   .row3_container {
-    margin-top: 10px; } }
+    margin-top: 10px; }
+  .teachers {
+    padding: 40px; }
+  .teacher_wrapper1 i {
+    font-size: 60px;
+    line-height: 36px; }
+  .teacher_wrapper1 a {
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 36px; }
+  .teacher_wrapper1 p {
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: 15px; }
+    .teacher_wrapper1 p:last-of-type {
+      font-size: 14px;
+      line-height: 24px;
+      color: #1ec0ff; }
+  .teacher_wrapper1 h1 {
+    font-size: 23px;
+    letter-spacing: 0;
+    margin-top: 50px; }
+  .teacher_wrapper1 hr {
+    margin-bottom: 30px; } }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
   /* header start */
@@ -94,7 +118,31 @@
   .row1_container hr {
     margin-bottom: 40px; }
   .row3_container {
-    margin-top: 30px; } }
+    margin-top: 30px; }
+  .teachers {
+    padding: 45px; }
+  .teacher_wrapper1 i {
+    font-size: 60px;
+    line-height: 36px; }
+  .teacher_wrapper1 a {
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 36px; }
+  .teacher_wrapper1 p {
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 27px;
+    margin-top: 15px; }
+    .teacher_wrapper1 p:last-of-type {
+      font-size: 14px;
+      line-height: 24px;
+      color: #1ec0ff; }
+  .teacher_wrapper1 h1 {
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin-top: 65px; }
+  .teacher_wrapper1 hr {
+    margin-bottom: 30px; } }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
   /* header start */
@@ -150,7 +198,56 @@
   .row1_container hr {
     margin-bottom: 40px; }
   .row3_container {
-    margin-top: 50px; } }
+    margin-top: 50px; }
+  .teachers {
+    padding: 55px; }
+  .teacher_wrapper1 i {
+    font-size: 60px;
+    line-height: 36px; }
+  .teacher_wrapper1 a {
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 36px; }
+  .teacher_wrapper1 p {
+    font-size: 17px;
+    letter-spacing: 0;
+    line-height: 27px;
+    margin-top: 15px; }
+    .teacher_wrapper1 p:last-of-type {
+      font-size: 14px;
+      line-height: 24px;
+      color: #1ec0ff; }
+  .teacher_wrapper1 h1 {
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin-top: 80px; }
+  .teacher_wrapper1 hr {
+    margin-bottom: 30px; }
+  .teacher_wrapper2 {
+    margin-top: 40px; }
+  .teacher_wrapper3 h4 {
+    font-size: 22px;
+    letter-spacing: 1px;
+    line-height: 36px; }
+  .teacher_wrapper3 h5 {
+    font-size: 16px;
+    line-height: 36px; }
+  .teacher_wrapper3 hr {
+    margin: 5px 0; }
+  .teacher_wrapper3 p {
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 5px; }
+    .teacher_wrapper3 p:last-of-type {
+      font-size: 16px;
+      letter-spacing: 2px;
+      line-height: 36px; }
+  .teacher_wrapper3 ul {
+    margin-bottom: 5px; }
+    .teacher_wrapper3 ul li {
+      margin-right: 15px !important; }
+      .teacher_wrapper3 ul li i {
+        font-size: 18px; } }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
   /* header start */
@@ -204,4 +301,50 @@
   .row1_container hr {
     margin-bottom: 50px; }
   .row3_container {
-    margin-top: 70px; } }
+    margin-top: 70px; }
+  .teachers {
+    padding: 65px; }
+  .teacher_wrapper1 i {
+    font-size: 60px;
+    line-height: 36px; }
+  .teacher_wrapper1 a {
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 36px; }
+  .teacher_wrapper1 p {
+    font-size: 17px;
+    letter-spacing: 1px;
+    line-height: 29px;
+    margin-top: 15px; }
+    .teacher_wrapper1 p:last-of-type {
+      font-size: 14px;
+      line-height: 24px;
+      color: #1ec0ff; }
+  .teacher_wrapper1 h1 {
+    font-size: 28px;
+    letter-spacing: 2px;
+    margin-top: 80px; }
+  .teacher_wrapper1 hr {
+    margin-bottom: 30px; }
+  .teacher_wrapper2 {
+    margin-top: 40px; }
+  .teacher_wrapper3 h4 {
+    font-size: 24px;
+    letter-spacing: 2px;
+    line-height: 36px; }
+  .teacher_wrapper3 h5 {
+    font-size: 16px;
+    line-height: 36px; }
+  .teacher_wrapper3 hr {
+    margin: 5px 0; }
+  .teacher_wrapper3 p {
+    font-size: 15px;
+    line-height: 27px; }
+    .teacher_wrapper3 p:last-of-type {
+      font-size: 16px;
+      letter-spacing: 2px;
+      line-height: 36px; }
+  .teacher_wrapper3 ul li {
+    margin-right: 15px !important; }
+    .teacher_wrapper3 ul li i {
+      font-size: 18px; } }

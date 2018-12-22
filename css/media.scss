@@ -98,8 +98,8 @@
 
   //moments start
 
-  .row1_container{
-    hr{
+  .row1_container {
+    hr {
       margin-bottom: 30px;
     }
   }
@@ -109,6 +109,50 @@
   }
 
   //moments end
+
+  //teachers start
+
+  .teachers {
+    padding: 40px;
+  }
+
+  .teacher_wrapper1 {
+    i {
+      font-size: 60px;
+      line-height: 36px;
+    }
+
+    a {
+      font-size: 14px;
+      letter-spacing: 1px;
+      line-height: 36px;
+    }
+
+    p {
+      font-size: 16px;
+      letter-spacing: 0;
+      line-height: 24px;
+      margin-top: 15px;
+
+      &:last-of-type {
+        font-size: 14px;
+        line-height: 24px;
+        color: #1ec0ff;
+      }
+    }
+
+    h1 {
+      font-size: 23px;
+      letter-spacing: 0;
+      margin-top: 50px;
+    }
+
+    hr {
+      margin-bottom: 30px;
+    }
+  }
+
+  //teachers end
 }
 
 //  Small devices (landscape phones, 576px and up) 
@@ -166,7 +210,7 @@
   }
 
   .edu_title_container {
-      margin-top: 160px;
+    margin-top: 160px;
 
     h1 {
       font-size: 28px;
@@ -225,8 +269,8 @@
 
   //moments start
 
-  .row1_container{
-    hr{
+  .row1_container {
+    hr {
       margin-bottom: 40px;
     }
   }
@@ -236,6 +280,50 @@
   }
 
   //moments end
+
+  //teachers start
+
+  .teachers {
+    padding: 45px;
+  }
+
+  .teacher_wrapper1 {
+    i {
+      font-size: 60px;
+      line-height: 36px;
+    }
+
+    a {
+      font-size: 14px;
+      letter-spacing: 1px;
+      line-height: 36px;
+    }
+
+    p {
+      font-size: 17px;
+      letter-spacing: 0;
+      line-height: 27px;
+      margin-top: 15px;
+
+      &:last-of-type {
+        font-size: 14px;
+        line-height: 24px;
+        color: #1ec0ff;
+      }
+    }
+
+    h1 {
+      font-size: 25px;
+      letter-spacing: 1px;
+      margin-top: 65px;
+    }
+
+    hr {
+      margin-bottom: 30px;
+    }
+  }
+
+  //teachers end
 
 }
 
@@ -364,8 +452,8 @@
 
   //moments start
 
-  .row1_container{
-    hr{
+  .row1_container {
+    hr {
       margin-bottom: 40px;
     }
   }
@@ -374,6 +462,96 @@
   }
 
   //moments end
+
+  //teachers start
+
+  .teachers {
+    padding: 55px;
+  }
+
+  .teacher_wrapper1 {
+    i {
+      font-size: 60px;
+      line-height: 36px;
+    }
+
+    a {
+      font-size: 14px;
+      letter-spacing: 1px;
+      line-height: 36px;
+    }
+
+    p {
+      font-size: 17px;
+      letter-spacing: 0;
+      line-height: 27px;
+      margin-top: 15px;
+
+      &:last-of-type {
+        font-size: 14px;
+        line-height: 24px;
+        color: #1ec0ff;
+      }
+    }
+
+    h1 {
+      font-size: 25px;
+      letter-spacing: 1px;
+      margin-top: 80px;
+    }
+
+    hr {
+      margin-bottom: 30px;
+    }
+  }
+
+
+  .teacher_wrapper2 {
+    margin-top: 40px;
+  }
+
+  .teacher_wrapper3 {
+    h4 {
+      font-size: 22px;
+      letter-spacing: 1px;
+      line-height: 36px;
+    }
+
+    h5 {
+      font-size: 16px;
+      line-height: 36px;
+    }
+
+    hr {
+      margin: 5px 0;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 25px;
+      margin-bottom: 5px;
+
+      &:last-of-type {
+        font-size: 16px;
+        letter-spacing: 2px;
+        line-height: 36px;
+      }
+    }
+
+    ul {
+      margin-bottom: 5px;
+
+      li {
+        margin-right: 15px !important;
+
+        i {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  //teachers end
 
 }
 
@@ -502,10 +680,10 @@
   }
   //features end
 
-//moments start
+  //moments start
 
-  .row1_container{
-    hr{
+  .row1_container {
+    hr {
       margin-bottom: 50px;
     }
   }
@@ -514,7 +692,95 @@
     margin-top: 70px;
   }
 
-//moments end
+  //moments end
+
+
+  //teachers start
+
+  .teachers {
+    padding: 65px;
+  }
+
+  .teacher_wrapper1 {
+    i {
+      font-size: 60px;
+      line-height: 36px;
+    }
+
+    a {
+      font-size: 14px;
+      letter-spacing: 1px;
+      line-height: 36px;
+    }
+
+    p {
+      font-size: 17px;
+      letter-spacing: 1px;
+      line-height: 29px;
+      margin-top: 15px;
+
+      &:last-of-type {
+        font-size: 14px;
+        line-height: 24px;
+        color: #1ec0ff;
+      }
+    }
+
+    h1 {
+      font-size: 28px;
+      letter-spacing: 2px;
+      margin-top: 80px;
+    }
+
+    hr {
+      margin-bottom: 30px;
+    }
+  }
+
+
+  .teacher_wrapper2 {
+    margin-top: 40px;
+  }
+
+  .teacher_wrapper3 {
+    h4 {
+      font-size: 24px;
+      letter-spacing: 2px;
+      line-height: 36px;
+    }
+
+    h5 {
+      font-size: 16px;
+      line-height: 36px;
+    }
+
+    hr {
+      margin: 5px 0;
+    }
+
+    p {
+      font-size: 15px;
+      line-height: 27px;
+
+      &:last-of-type {
+        font-size: 16px;
+        letter-spacing: 2px;
+        line-height: 36px;
+      }
+    }
+
+    ul {
+      li {
+        margin-right: 15px !important;
+
+        i {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  //teachers end
 
 }
 
