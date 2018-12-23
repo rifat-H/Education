@@ -7,7 +7,8 @@ todo
 =====================
 ->set padding pattern in every section correct and responsive
 ->comment everywhere
--> fix card footer border over p tag
+->make scss shorter
+
 
 
 icons
@@ -28,7 +29,7 @@ icons
 <i class="fas fa-rss"></i>
 <i class="far fa-clock"></i>
 <i class="far fa-calendar-alt"></i>
-
+<i class="fas fa-reply"></i>
 
 
 fonts

@@ -78,6 +78,7 @@ header {
 .cusmar {
   margin-left: 15px;
 }
+
 // search
 
 .searchbar {
@@ -702,4 +703,140 @@ header {
 //news end
 
 //contact start
+
+.contact {
+  padding-top: 50px;
+  padding-bottom: 110px;
+  background: url(../images/cloud_bottom.png) no-repeat;
+}
+
+.contact_wrapper1 {
+  margin-top: 10px;
+
+  img {
+  }
+
+  i {
+    color: #1ec0ff;
+    font-weight: bold;
+    margin-right: 6px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Lato", sans-serif;
+
+  }
+
+  span {
+    color: #1ec0ff;
+    font-weight: bold;
+  }
+}
+
+.mtop3 {
+  margin-top: 180px;
+}
+
+.contact_wrapper2 {
+  h4 {
+    font-size: 24px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    font-weight: bold;
+    margin-top: 40px;
+    text-transform: uppercase;
+  }
+
+  hr {
+    border: none;
+    border-bottom: 8px dotted;
+    width: 200px;
+    margin-left: 0;
+  }
+}
+
+.contact_wrapper3 {
+  h4 {
+    font-size: 24px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    color: #56d47e;
+    font-weight: bold;
+    margin-top: 40px;
+    text-transform: uppercase;
+  }
+
+  hr {
+    border: none;
+    border-bottom: 8px dotted;
+    width: 200px;
+    margin-left: 0;
+    color: #56d47e;
+  }
+
+  p {
+    font-size: 15px;
+    line-height: 36px;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+  }
+
+  i {
+    margin-right: 6px;
+    color: #dddddd;
+  }
+}
+
+.contact_wrapper4{
+  position: relative;
+  h4{
+    font-size: 24px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    color: #f05c5c;
+    font-weight: bold;
+    margin-top: 40px;
+    text-transform: uppercase;
+  }
+  hr{
+    border: none;
+    border-bottom: 8px dotted;
+    width: 200px;
+    margin-left: 0;
+    color: #f05c5c;
+  }
+  p{
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+  }
+  input{
+    border-right: none;
+    border-left: none;
+  }
+  ul{
+    li{
+      margin-top: 10px;
+      margin-right: 15px !important;
+      i{
+        color: #cccccc;
+      }
+    }
+  }
+}
+
+.cusappend{
+  background: none !important;
+  border-left: none;
+}
+.cusprepend{
+  background: none !important;
+  border-right: none;
+  color: #1ec0ff;
+  padding-right: 10px;
+}
+
 //contact end
