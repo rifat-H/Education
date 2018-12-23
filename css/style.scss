@@ -789,9 +789,10 @@ header {
   }
 }
 
-.contact_wrapper4{
+.contact_wrapper4 {
   position: relative;
-  h4{
+
+  h4 {
     font-size: 24px;
     letter-spacing: 2px;
     line-height: 24px;
@@ -800,39 +801,45 @@ header {
     margin-top: 40px;
     text-transform: uppercase;
   }
-  hr{
+
+  hr {
     border: none;
     border-bottom: 8px dotted;
     width: 200px;
     margin-left: 0;
     color: #f05c5c;
   }
-  p{
+
+  p {
     font-size: 14px;
     line-height: 24px;
     font-family: "Lato", sans-serif;
     font-weight: 300;
   }
-  input{
+
+  input {
     border-right: none;
     border-left: none;
   }
-  ul{
-    li{
+
+  ul {
+    li {
       margin-top: 10px;
       margin-right: 15px !important;
-      i{
+
+      i {
         color: #cccccc;
       }
     }
   }
 }
 
-.cusappend{
+.cusappend {
   background: none !important;
   border-left: none;
 }
-.cusprepend{
+
+.cusprepend {
   background: none !important;
   border-right: none;
   color: #1ec0ff;
@@ -840,3 +847,17 @@ header {
 }
 
 //contact end
+
+//footer start
+
+footer {
+
+}
+
+.footwrapper1 {
+}
+
+.footwrapper2 {
+}
+
+//footer end
