@@ -10,7 +10,7 @@ body {
 .row1_container hr,
 .teacher_wrapper1 hr,
 .grey_wrapper1 hr,
-//.teacher_wrapper3 hr,
+  //.teacher_wrapper3 hr,
 .newswrapper1 hr {
   width: 250px;
   border: none;
@@ -470,7 +470,8 @@ header {
     font-family: "Lato", sans-serif;
     margin-bottom: 0;
   }
-  hr{
+
+  hr {
     margin-left: 0;
   }
 
@@ -593,7 +594,8 @@ header {
 .news {
   padding: 50px 0;
 }
-.mtop{
+
+.mtop {
   margin-top: 80px;
 }
 
@@ -604,25 +606,31 @@ header {
     line-height: 36px;
     font-weight: bold;
     text-transform: uppercase;
+    //text-align: center;
   }
 
   hr {
     margin-left: 0;
+    //text-align: center;
   }
 }
 
-.c1{
+.c1 {
   background-color: #1ec0ff;
 }
-.c2{
+
+.c2 {
   background-color: #56d47e;
 }
-.c3{
+
+.c3 {
   background-color: #ffd338;
 }
-.c4{
+
+.c4 {
   background-color: #f05c5c;
 }
+
 .newswrapper2 {
   width: 100px;
   height: 100px;
@@ -671,13 +679,14 @@ header {
 
 }
 
-.one{
+.one {
   font-size: 16px;
   letter-spacing: 1px;
   line-height: 24px;
   font-weight: 300;
 }
-.two{
+
+.two {
   font-size: 16px;
   letter-spacing: 2px;
   line-height: 24px;
@@ -685,37 +694,47 @@ header {
   font-weight: bold;
 }
 
-.news_image{
-  img{
+.news_image {
+  img {
     border-radius: 20px;
   }
 }
-.news_content{
-  h4{
+
+.news_content {
+  h4 {
     font-size: 24px;
     letter-spacing: 1px;
     line-height: 24px;
     font-weight: bold;
   }
-  hr{
+
+  hr {
     border: none;
     border-bottom: 8px dotted;
   }
-  P{}
+
+  P {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+  }
 }
 
-.mtop2{
-  margin-top: 50px;
+.mtop2 {
+  margin-top: 40px;
 }
-.hr1{
+
+.hr1 {
   color: #1ec0ff;
 }
-.hr2{
+
+.hr2 {
   color: #56d47e;
 }
-.hr3{
+
+.hr3 {
   color: #ffc852;
 }
-
 
 //news end
