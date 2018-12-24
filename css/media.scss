@@ -194,6 +194,9 @@
   }
 
   //grey end
+  .contact{
+    background-color: white;
+  }
 }
 
 //  Small devices (landscape phones, 576px and up) 
@@ -514,7 +517,6 @@
       }
     }
   }
-
   .cusmar {
     margin-left: auto;
   }
@@ -722,7 +724,13 @@
 
   //teachers end
 
-  //grey start
+
+  .newswrapper3 {
+    margin-left: 26px;
+    margin-top: 13px;
+  }
+
+    //grey start
 
   .grey {
     padding: 40px 0;
@@ -763,7 +771,7 @@
 
   .contact {
     padding-top: 50px;
-    padding-bottom: 110px;
+    padding-bottom: 30px;
     text-align: center;
   }
 
@@ -1203,7 +1211,7 @@
 
   .contact {
     padding-top: 50px;
-    padding-bottom: 110px;
+    padding-bottom: 60px;
   }
 
   .contact_wrapper1 {
@@ -1279,6 +1287,31 @@
   }
 
   //contact end
+
+  //footer start
+
+  footer {
+    padding-top: 34.5px;
+    padding-bottom: 5.5px;
+  }
+
+  .footwrapper1 {
+    ul{
+      li{
+        a{
+          font-size: 17px;
+        }
+      }
+    }
+  }
+
+  .footwrapper2 {
+    p{
+      font-size: 14px;
+    }
+  }
+
+  //footer end
 }
 
 //  Extra large devices (large desktops, 1200px and up) 
