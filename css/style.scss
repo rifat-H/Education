@@ -851,13 +851,35 @@ header {
 //footer start
 
 footer {
-
+  padding-top: 34.5px;
+  padding-bottom: 5.5px;
+  background-color: #ffd338;
 }
 
 .footwrapper1 {
+  ul{
+    li{
+      color: #ffffff;
+      font-weight: bold;
+      a{
+        font-size: 18px;
+        line-height: 18px;
+        color: #ffffff;
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+    }
+  }
 }
 
 .footwrapper2 {
+  p{
+    text-transform: uppercase;
+    font-size: 15px;
+    line-height: 18px;
+    color: #ffffff;
+    font-family: "Lato", sans-serif;
+  }
 }
 
 //footer end
