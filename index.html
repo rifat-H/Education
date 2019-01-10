@@ -68,22 +68,31 @@
                 <a class="nav-link" href="#">Contracts</a>
               </li>
               <!-- User Sign up -->
-              <li class="nav-item cusmar">
-                <a
-                  class="nav-link"
-                  data-toggle="modal"
-                  data-target="#signup"
-                  href="#"
-                  ><i class="fas fa-user"></i
-                ></a>
+              <!-- Dropdown start -->
+              <li class="dropdown text-right cusmar">
+                <button
+                  class="btn cus_btn dropdown-toggle "
+                  type="button"
+                  id="dropdownMenuButton"
+                  data-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  <i class="fas fa-user"></i>
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                  <a class="dropdown-item dbtn" href="#">Sign in</a>
+                  <a class="dropdown-item dbtn" href="#">Sign out</a>
+                </div>
               </li>
+              <!-- Dropdown end -->
+
               <!-- Search -->
               <li class="search">
                 <div class="dropdown">
                   <button
                     class="btn dropdown-toggle"
                     type="button"
-                    id="dropdownMenuButton"
                     data-toggle="dropdown"
                     aria-haspopup="true"
                     aria-expanded="false"
@@ -97,99 +106,11 @@
                     <input type="text" placeholder="search" />
                   </div>
                 </div>
-            </li>
+              </li>
               <!-- Search -->
             </ul>
           </div>
         </nav>
-      </div>
-      <!-- Signup modal -->
-      <div
-        class="modal fade"
-        id="signup"
-        tabindex="-1"
-        role="dialog"
-        aria-labelledby="exampleModalLabel"
-        aria-hidden="true"
-      >
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-              <!-- modal header -->
-              <h5 class="modal-title" id="exampleModalLabel">Sign up</h5>
-              <!-- close button -->
-              <button
-                type="button"
-                class="close"
-                data-dismiss="modal"
-                aria-label="Close"
-              >
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <div class="modal-body">
-              <!-- inside modal -->
-              <form>
-                <div class="form-group">
-                  <label for="exampleInputEmail1">Name</label>
-                  <input
-                    type="text"
-                    class="form-control"
-                    id="name"
-                    aria-describedby="emailHelp"
-                    placeholder="Enter email"
-                  />
-                </div>
-                <div class="form-group">
-                  <label for="exampleInputEmail1">Email address</label>
-                  <input
-                    type="email"
-                    class="form-control"
-                    id="exampleInputEmail1"
-                    aria-describedby="emailHelp"
-                    placeholder="Enter email"
-                  />
-                  <small id="emailHelp" class="form-text text-muted"
-                    >We'll never share your email with anyone else.
-                  </small>
-                </div>
-                <div class="form-group">
-                  <label for="exampleInputPassword1">Password</label>
-                  <input
-                    type="password"
-                    class="form-control"
-                    id="exampleInputPassword1"
-                    placeholder="Password"
-                  />
-                </div>
-                <div class="form-group form-check">
-                  <input
-                    type="checkbox"
-                    class="form-check-input"
-                    id="exampleCheck1"
-                  />
-                  <label class="form-check-label" for="exampleCheck1"
-                    >Check me out</label
-                  >
-                </div>
-                <button type="submit" class="btn btn-primary">Submit</button>
-              </form>
-            </div>
-            <div class="modal-footer">
-              <p class="text-muted form-text mt-3 mr-4">
-                Already Have an Account?
-              </p>
-              <button type="button" class="btn btn-primary">Sign in</button>
-              <button
-                type="button"
-                class="btn btn-secondary"
-                data-dismiss="modal"
-              >
-                Close
-              </button>
-            </div>
-          </div>
-        </div>
       </div>
     </header>
     <!-- header end -->
