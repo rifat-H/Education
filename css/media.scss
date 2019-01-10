@@ -1,6 +1,5 @@
-//  Extra small devices (portrait phones, less than 576px) 
+//  Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) {
-
   /* header start */
   header {
     nav {
@@ -63,7 +62,6 @@
       width: 250px;
       margin-bottom: 25px;
     }
-
   }
 
   .rowcontainer {
@@ -95,6 +93,14 @@
   }
 
   // education2 end
+
+  // featured start
+  .featured_container1 {
+    img {
+      display: block;
+    }
+  }
+  // featured start
 
   //moments start
 
@@ -165,7 +171,6 @@
   }
 
   .grey_wrapper1 {
-
     h1 {
       font-size: 30px;
       letter-spacing: 3px;
@@ -194,14 +199,13 @@
   }
 
   //grey end
-  .contact{
+  .contact {
     background-color: white;
   }
 }
 
-//  Small devices (landscape phones, 576px and up) 
+//  Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) and (max-width: 767.98px) {
-
   /* header start */
   header {
     nav {
@@ -211,7 +215,6 @@
         li {
           margin: 0 0;
           text-align: right;
-
         }
       }
     }
@@ -265,7 +268,6 @@
       width: 250px;
       margin-bottom: 25px;
     }
-
   }
 
   .rowcontainer {
@@ -281,7 +283,6 @@
 
     // img {}
   }
-
 
   .rowcontainer2 {
     margin-top: 50px;
@@ -309,7 +310,7 @@
   .mbot {
     margin-bottom: 45px;
   }
-  // featured end
+  // education end
 
   //moments start
 
@@ -374,7 +375,6 @@
 
   //teachers end
 
-
   //grey start
 
   .grey {
@@ -382,7 +382,6 @@
   }
 
   .grey_wrapper1 {
-
     h1 {
       font-size: 30px;
       letter-spacing: 3px;
@@ -477,31 +476,29 @@
     }
   }
 
-  .contact_wrapper4{
+  .contact_wrapper4 {
     text-align: center;
-    h4{
+    h4 {
       font-size: 22px;
       letter-spacing: 0;
       line-height: 24px;
       margin-top: 40px;
     }
-    hr{
+    hr {
       width: 200px;
       margin: 20px auto;
     }
-    p{
+    p {
       font-size: 14px;
       line-height: 24px;
     }
   }
 
   //contact end
-
 }
 
-//  Medium devices (tablets, 768px and up) 
+//  Medium devices (tablets, 768px and up)
 @media (min-width: 768px) and (max-width: 991.98px) {
-
   /* header start */
   header {
     nav {
@@ -511,8 +508,6 @@
         li {
           margin: 0 0;
           text-align: right;
-
-
         }
       }
     }
@@ -556,7 +551,6 @@
     margin-top: 180px;
 
     h1 {
-
       margin-bottom: 25px;
     }
 
@@ -564,7 +558,6 @@
       width: 250px;
       margin-bottom: 25px;
     }
-
   }
 
   .rowcontainer {
@@ -581,7 +574,6 @@
     img {
       width: 210px;
     }
-
   }
 
   .rowcontainer2 {
@@ -676,7 +668,6 @@
     }
   }
 
-
   .teacher_wrapper2 {
     margin-top: 40px;
   }
@@ -724,20 +715,18 @@
 
   //teachers end
 
-
   .newswrapper3 {
     margin-left: 26px;
     margin-top: 13px;
   }
 
-    //grey start
+  //grey start
 
   .grey {
     padding: 40px 0;
   }
 
   .grey_wrapper1 {
-
     h1 {
       font-size: 30px;
       letter-spacing: 3px;
@@ -828,31 +817,29 @@
     }
   }
 
-  .contact_wrapper4{
+  .contact_wrapper4 {
     position: relative;
-    h4{
+    h4 {
       font-size: 22px;
       letter-spacing: 0;
       line-height: 24px;
       margin-top: 40px;
     }
-    hr{
+    hr {
       width: 160px;
       margin-left: 0;
     }
-    p{
+    p {
       font-size: 14px;
       line-height: 24px;
     }
   }
 
   //contact end
-
 }
 
-//  Large devices (desktops, 992px and up) 
+//  Large devices (desktops, 992px and up)
 @media (min-width: 992px) and (max-width: 1199.98px) {
-
   /* header start */
   header {
     nav {
@@ -865,7 +852,6 @@
           // &:last-child {
           //     margin: 0 10px;
           // }
-
         }
       }
     }
@@ -903,7 +889,6 @@
 
   // banner end
 
-
   // education start
   .education {
     padding: 30px 0;
@@ -913,7 +898,6 @@
     margin-top: 150px;
 
     h1 {
-
       margin-bottom: 25px;
     }
 
@@ -921,7 +905,6 @@
       width: 250px;
       margin-bottom: 25px;
     }
-
   }
 
   .rowcontainer {
@@ -989,7 +972,6 @@
 
   //moments end
 
-
   //teachers start
 
   .teachers {
@@ -1031,7 +1013,6 @@
       margin-bottom: 30px;
     }
   }
-
 
   .teacher_wrapper2 {
     margin-top: 40px;
@@ -1084,7 +1065,6 @@
   }
 
   .grey_wrapper1 {
-
     h1 {
       font-size: 30px;
       letter-spacing: 3px;
@@ -1190,7 +1170,6 @@
     font-weight: bold;
   }
 
-
   .news_content {
     h4 {
       font-size: 22px;
@@ -1198,7 +1177,6 @@
       line-height: 21px;
       font-weight: bold;
     }
-
   }
 
   .mtop2 {
@@ -1268,19 +1246,19 @@
     }
   }
 
-  .contact_wrapper4{
+  .contact_wrapper4 {
     position: relative;
-    h4{
+    h4 {
       font-size: 22px;
       letter-spacing: 0;
       line-height: 24px;
       margin-top: 40px;
     }
-    hr{
+    hr {
       width: 200px;
       margin-left: 0;
     }
-    p{
+    p {
       font-size: 14px;
       line-height: 24px;
     }
@@ -1296,9 +1274,9 @@
   }
 
   .footwrapper1 {
-    ul{
-      li{
-        a{
+    ul {
+      li {
+        a {
           font-size: 17px;
         }
       }
@@ -1306,7 +1284,7 @@
   }
 
   .footwrapper2 {
-    p{
+    p {
       font-size: 14px;
     }
   }
@@ -1314,6 +1292,6 @@
   //footer end
 }
 
-//  Extra large devices (large desktops, 1200px and up) 
+//  Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
 }
