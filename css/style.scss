@@ -682,6 +682,13 @@ header {
   padding-top: 50px;
   padding-bottom: 110px;
   background: url(../images/cloud_bottom.png) no-repeat;
+  position: relative;
+
+  .top{
+    position: absolute;
+    bottom: 30px;
+    right: 5px;
+  }
 }
 
 .contact_wrapper1 {
