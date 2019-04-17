@@ -113,6 +113,9 @@ header nav ul li a {
   font-size: 60px;
   color: #bbbbbb;
 }
+.scroll i:hover {
+  cursor: pointer;
+}
 
 .education {
   padding: 80px 0;
@@ -578,6 +581,9 @@ header nav ul li a {
   position: absolute;
   bottom: 30px;
   right: 5px;
+}
+.contact .top:hover {
+  cursor: pointer;
 }
 
 .contact_wrapper1 {

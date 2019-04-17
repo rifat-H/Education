@@ -124,6 +124,10 @@ header {
   i {
     font-size: 60px;
     color: #bbbbbb;
+
+    &:hover{
+      cursor: pointer;
+    }
   }
 }
 
@@ -688,6 +692,9 @@ header {
     position: absolute;
     bottom: 30px;
     right: 5px;
+    &:hover{
+      cursor: pointer;
+    }
   }
 }
 
